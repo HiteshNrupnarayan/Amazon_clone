@@ -1,2 +1,2 @@
 # Amazon_clone
-this is Amazone clone project 
+This is Amazone clone project :) 
